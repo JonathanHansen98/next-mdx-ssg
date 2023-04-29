@@ -1,0 +1,14 @@
+{
+  "title": "Package 1 Docs",
+  "path": "/package1",
+  "routes": [
+    {
+      "title": "useCallback()",
+      "path": "/package1/useCallback"
+    },
+    {
+      "title": "useMemo()",
+      "path": "/package1/useMemo"
+    }
+  ]
+}
